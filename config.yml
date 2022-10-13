@@ -15,3 +15,6 @@ repo_names:
 # Provide any URLs for your Data Models assignment
 11-models-from-data:
   - https://github.com/kimccarthy/CocktailAPIATLAS/tree/main/CocktailAPITake2
+  
+project-check-in-1:
+  - https://github.com/kimccarthy/ATLAS-iOS-Fall-22/issues/2
