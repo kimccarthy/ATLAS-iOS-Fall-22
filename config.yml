@@ -21,3 +21,6 @@ repo_names:
   
 project-check-in-1:
   - https://github.com/kimccarthy/ATLAS-iOS-Fall-22/issues/2
+ 
+project-check-in-2:
+  - https://github.com/kimccarthy/ATLAS-Kingdom-Mystery/pull/1
